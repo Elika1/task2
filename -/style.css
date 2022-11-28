@@ -1,0 +1,82 @@
+body{
+    position:relative;
+    background-color: #0D192C;
+    width: 700px;
+    height: 500px;
+    left: 450px;
+}
+div{
+    width: 350px;
+    height: 596px;
+
+    background-color:#15263F;
+    border-radius: 15px;
+    box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.0952917);
+    overflow: hidden;
+    padding: 24px;
+}
+img{
+    max-width: 100%;
+    border-radius: 8px;
+}
+h1{
+    color: white;
+    font-family:'Outfit' ;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 600;
+}
+p{
+    color:#8BACD9;
+    font-family: 'Outfit';
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+}
+.ETH{
+    position: absolute;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    color: #00FFF8;
+}
+.clock{
+    position: absolute;
+    left: 301px;
+    height: 20px;
+    font-family:'Outfit';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color:#8BACD9;
+}
+
+.avatar{
+    position:absolute;
+    width: 33px;
+    height: 33px;
+    margin-top: 70px;
+    border: 1px solid #FFFFFF;
+    border-radius: 33px;
+}
+.avatar-name{
+    color: #8BACD9;
+    height: 20px;
+    margin-top: 95px;
+    margin-left: 50px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    
+}
+span{
+    color: white;
+}
+
+
